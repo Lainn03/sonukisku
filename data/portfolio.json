@@ -1,0 +1,115 @@
+{
+    "personal": {
+        "name": "Sonu Kisku",
+        "title": "Video Editor & Motion Designer",
+        "tagline": "Cinematic storytelling through smooth edits and stunning transitions",
+        "heroImage": "/placeholder.svg?height=600&width=800",
+        "profileImage": "/placeholder.svg?height=200&width=200",
+        "email": "sonu123kisku@gmail.com",
+        "phone": "+91 8084871210",
+        "location": "India"
+    },
+    "about": {
+        "description": "I’m a passionate video editor with a strong eye for storytelling and visual detail. I specialize in crafting engaging content using Adobe Premiere Pro for seamless editing and After Effects for dynamic motion graphics and visual effects. Whether it's cinematic edits, social media content, or promotional videos, I aim to bring creative visions to life with precision and style.",
+        "skills": [
+            "Adobe Premiere Pro",
+            "After Effects",
+            "Green Screen Editing",
+            "Scene Transitioning",
+            "Motion Graphics",
+            "Cinematic Editing",
+            "Storytelling",
+            "Color Correction"
+        ],
+        "experience": "3+ Years",
+        "projectsCompleted": "100+",
+        "clientsSatisfied": "30+"
+    },
+    "projects": [
+        {
+            "id": 1,
+            "title": "Cinematic Travel Vlog",
+            "description": "A travel vlog packed with cinematic shots, smooth transitions, and vibrant color grading showcasing the beauty of nature and adventure.",
+            "youtubeId": "cbVIFvVOglM",
+            "category": "Travel",
+            "duration": "10:05",
+            "tags": ["Travel", "Cinematic", "Transitions"]
+        },
+        {
+            "id": 2,
+            "title": "Product Promo - Smartwatch",
+            "description": "Slick product promo featuring motion graphics, kinetic typography, and eye-catching visual effects to boost brand appeal.",
+            "youtubeId": "dQw4w9WgXcQ",
+            "category": "Commercial",
+            "duration": "1:20",
+            "tags": ["Promo", "Product Video", "Motion Graphics"]
+        },
+        {
+            "id": 3,
+            "title": "Music Visualizer for Indie Artist",
+            "description": "Rhythmic visuals and synchronized transitions enhancing a music track's mood with animated graphics and lighting effects.",
+            "youtubeId": "dQw4w9WgXcQ",
+            "category": "Music Video",
+            "duration": "3:50",
+            "tags": ["Music", "Effects", "Visualizer"]
+        },
+        {
+            "id": 4,
+            "title": "Wedding Memories Highlight",
+            "description": "Capturing love and emotions through cinematic editing, slow-motion scenes, and carefully curated music.",
+            "youtubeId": "dQw4w9WgXcQ",
+            "category": "Wedding",
+            "duration": "7:40",
+            "tags": ["Wedding", "Cinematic", "Emotional"]
+        }
+    ],
+    "socialMedia": [
+        {
+            "platform": "YouTube",
+            "url": "https://youtube.com/@sonukisku",
+            "icon": "youtube"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/sonukisku",
+            "icon": "instagram"
+        },
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/sonukisku",
+            "icon": "linkedin"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://twitter.com/sonukisku",
+            "icon": "twitter"
+        },
+        {
+            "platform": "Vimeo",
+            "url": "https://vimeo.com/sonukisku",
+            "icon": "video"
+        }
+    ],
+    "services": [
+        {
+            "title": "Video Editing",
+            "description": "Cinematic and story-driven video edits for any content type",
+            "icon": "film"
+        },
+        {
+            "title": "Motion Graphics",
+            "description": "Custom animations for intros, titles, and transitions",
+            "icon": "zap"
+        },
+        {
+            "title": "Color Grading",
+            "description": "Professional color correction and grading",
+            "icon": "palette"
+        },
+        {
+            "title": "Sound Design",
+            "description": "Audio editing and sound enhancement",
+            "icon": "volume2"
+        }
+    ]
+}
