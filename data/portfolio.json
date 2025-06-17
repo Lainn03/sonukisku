@@ -50,6 +50,15 @@
             "tags": ["Music", "Effects", "Visualizer"]
         },
         {
+            "id": 5,
+            "title": "Wedding Memories Highlight",
+            "description": "Capturing love and emotions through cinematic editing, slow-motion scenes, and carefully curated music.",
+            "youtubeId": "dQw4w9WgXcQ",
+            "category": "Wedding",
+            "duration": "7:40",
+            "tags": ["Wedding", "Cinematic", "Emotional"]
+        },
+        {
             "id": 4,
             "title": "Wedding Memories Highlight",
             "description": "Capturing love and emotions through cinematic editing, slow-motion scenes, and carefully curated music.",
