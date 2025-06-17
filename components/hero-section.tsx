@@ -10,7 +10,6 @@ interface HeroSectionProps {
         name: string;
         title: string;
         tagline: string;
-        heroImage: string;
     };
 }
 
