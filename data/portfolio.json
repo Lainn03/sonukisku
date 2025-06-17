@@ -62,23 +62,23 @@
     "socialMedia": [
         {
             "platform": "YouTube",
-            "url": "https://youtube.com/@sonukisku",
+            "url": "https://www.youtube.com/@sonukisku1521",
             "icon": "youtube"
         },
         {
             "platform": "Instagram",
-            "url": "https://instagram.com/sonukisku",
+            "url": "https://www.instagram.com/wired_08",
             "icon": "instagram"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://x.com/sonukisku03",
+            "icon": "twitter"
         },
         {
             "platform": "LinkedIn",
             "url": "https://linkedin.com/in/sonukisku",
             "icon": "linkedin"
-        },
-        {
-            "platform": "Twitter",
-            "url": "https://twitter.com/sonukisku",
-            "icon": "twitter"
         }
     ],
     "services": [

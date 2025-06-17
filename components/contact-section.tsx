@@ -7,7 +7,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Mail, Phone, MapPin, Youtube, Instagram, Linkedin, Twitter, Video } from "lucide-react"
+import { Mail, Phone, MapPin, Youtube, Instagram, Linkedin, Twitter, X } from "lucide-react"
 import { useState } from "react"
 
 interface ContactSectionProps {
@@ -28,7 +28,6 @@ const iconMap = {
   instagram: Instagram,
   linkedin: Linkedin,
   twitter: Twitter,
-  video: Video,
 }
 
 export default function ContactSection({ personal, socialMedia }: ContactSectionProps) {
