@@ -24,17 +24,17 @@
     "projects": [
         {
             "id": 1,
-            "title": "Cinematic Travel Vlog",
-            "description": "A travel vlog packed with cinematic shots, smooth transitions, and vibrant color grading showcasing the beauty of nature and adventure.",
+            "title": "Iman Gaadhzi animation",
+            "description": "Iman Gaadhzi styles animation, edited with after effects.",
             "youtubeId": "cbVIFvVOglM",
-            "category": "Travel",
+            "category": "Animation",
             "duration": "10:05",
             "tags": ["Travel", "Cinematic", "Transitions"]
         },
         {
             "id": 2,
-            "title": "Product Promo - Smartwatch",
-            "description": "Slick product promo featuring motion graphics, kinetic typography, and eye-catching visual effects to boost brand appeal.",
+            "title": "Newspaper highlighting animation",
+            "description": "Newspaper animation edited in the after effects and can also be done in premier pro",
             "youtubeId": "dQw4w9WgXcQ",
             "category": "Commercial",
             "duration": "1:20",
@@ -42,8 +42,8 @@
         },
         {
             "id": 3,
-            "title": "Music Visualizer for Indie Artist",
-            "description": "Rhythmic visuals and synchronized transitions enhancing a music track's mood with animated graphics and lighting effects.",
+            "title": "3-D animtion",
+            "description": "3-D animation using after effects",
             "youtubeId": "dQw4w9WgXcQ",
             "category": "Music Video",
             "duration": "3:50",
@@ -51,8 +51,8 @@
         },
         {
             "id": 4,
-            "title": "Wedding Memories Highlight",
-            "description": "Capturing love and emotions through cinematic editing, slow-motion scenes, and carefully curated music.",
+            "title": "Paper type 2-D animation",
+            "description": "2-D animation made with after effects",
             "youtubeId": "dQw4w9WgXcQ",
             "category": "Wedding",
             "duration": "7:40",
@@ -60,8 +60,8 @@
         },
         {
             "id": 5,
-            "title": "Wedding Memories Highlight",
-            "description": "Capturing love and emotions through cinematic editing, slow-motion scenes, and carefully curated music.",
+            "title": "3-D animation",
+            "description": "3-D animation using after effects",
             "youtubeId": "dQw4w9WgXcQ",
             "category": "Wedding",
             "duration": "7:40",
@@ -69,8 +69,8 @@
         },
         {
             "id": 6,
-            "title": "Wedding Memories Highlight",
-            "description": "Capturing love and emotions through cinematic editing, slow-motion scenes, and carefully curated music.",
+            "title": "Airtel-Jio price Hack",
+            "description": "Edited in premier pro",
             "youtubeId": "dQw4w9WgXcQ",
             "category": "Wedding",
             "duration": "7:40",
