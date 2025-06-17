@@ -2,15 +2,13 @@
     "personal": {
         "name": "Sonu Kisku",
         "title": "Video Editor & Motion Designer",
-        "tagline": "Cinematic storytelling through smooth edits and stunning transitions",
-        "heroImage": "/placeholder.svg?height=600&width=800",
-        "profileImage": "/placeholder.svg?height=200&width=200",
+        "tagline": "Smooth, modern edits that grab attention and tell your story",
         "email": "sonu123kisku@gmail.com",
         "phone": "+91 8084871210",
         "location": "India"
     },
     "about": {
-        "description": "I’m a passionate video editor with a strong eye for storytelling and visual detail. I specialize in crafting engaging content using Adobe Premiere Pro for seamless editing and After Effects for dynamic motion graphics and visual effects. Whether it's cinematic edits, social media content, or promotional videos, I aim to bring creative visions to life with precision and style.",
+        "description": "I’m a passionate video editor with a strong eye for storytelling and visual detail. I specialize in crafting engaging content using Adobe Premiere Pro for seamless editing and After Effects for dynamic motion graphics and visual effects. Whether it's social media content, or promotional videos, I aim to bring creative visions to life with precision and style.",
         "skills": [
             "Adobe Premiere Pro",
             "After Effects",
@@ -18,12 +16,10 @@
             "Scene Transitioning",
             "Motion Graphics",
             "Cinematic Editing",
-            "Storytelling",
-            "Color Correction"
+            "Storytelling"
         ],
-        "experience": "3+ Years",
-        "projectsCompleted": "100+",
-        "clientsSatisfied": "30+"
+        "experience": "1+ Years",
+        "projectsCompleted": "30+"
     },
     "projects": [
         {
@@ -83,11 +79,6 @@
             "platform": "Twitter",
             "url": "https://twitter.com/sonukisku",
             "icon": "twitter"
-        },
-        {
-            "platform": "Vimeo",
-            "url": "https://vimeo.com/sonukisku",
-            "icon": "video"
         }
     ],
     "services": [

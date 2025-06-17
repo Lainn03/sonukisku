@@ -340,7 +340,7 @@ export default function HeroSection({ data }: HeroSectionProps) {
                                 size="lg"
                                 variant="outline"
                                 onClick={scrollToContact}
-                                className="border-white/30 text-black hover:bg-white/10 hover:text-white px-8 py-3 rounded-full font-medium transition-all duration-300 backdrop-blur-sm"
+                                className="border-white/30 text-black z-10 hover:bg-white/10 hover:text-white px-8 py-3 rounded-full font-medium transition-all duration-300 backdrop-blur-sm"
                             >
                                 <Download className="mr-2 h-5 w-5" />
                                 Get In Touch

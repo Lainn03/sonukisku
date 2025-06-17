@@ -135,7 +135,7 @@ export default function ProjectsSection({ projects }: ProjectsSectionProps) {
                       <div className="flex items-center justify-between mb-3">
                         <Badge
                           variant="secondary"
-                          className="bg-gradient-to-r from-purple-500/20 to-pink-500/20 text-white border-white/10"
+                          className="bg-gradient-to-r from-purple-500/20 to-pink-500/20 text-black border-white/10 "
                         >
                           {project.category}
                         </Badge>

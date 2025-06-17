@@ -63,11 +63,11 @@ export default function AboutSection({ data, services }: AboutSectionProps) {
           </motion.div>
 
           {/* Stats */}
-          <motion.div variants={itemVariants} className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
+          <motion.div variants={itemVariants} className="grid grid-cols-1 place-items-center md:grid-cols-2 gap-8 mb-16">
             {[
               { label: "Experience", value: data.experience },
               { label: "Projects Completed", value: data.projectsCompleted },
-              { label: "Clients Satisfied", value: data.clientsSatisfied },
+              // { label: "Clients Satisfied", value: data.clientsSatisfied },
             ].map((stat, index) => (
               <motion.div
                 key={index}
