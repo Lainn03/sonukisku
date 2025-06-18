@@ -24,63 +24,63 @@
     "projects": [
         {
             "id": 1,
-            "title": "Iman Gaadhzi animation",
+            "title": "Iman Gaadhzi Animation",
             "description": "Iman Gaadhzi style animation edited with after effects",
             "youtubeId": "cbVIFvVOglM",
-            "category": "Travel",
+            "category": "Animation",
             "duration": "10:05",
-            "tags": ["Travel", "Cinematic", "Transitions"]
+            "tags": ["Animation","Effects","Transition"]
         },
         {
             "id": 2,
-            "title": "Newspaper highlighting animation",
+            "title": "Newspaper Highlighting Animation",
             "description": "Newspaper animation edited in the after effects and can also be done in premier pro",
             "youtubeId": "uLwM1qchZ2s",
-            "category": "Commercial",
+            "category": "Animation",
             "duration": "1:20",
-            "tags": ["Promo", "Product Video", "Motion Graphics"]
+            "tags": ["Animation","Effects","Transition"]
         },
         {
             "id": 3,
             "title": "Meta logo ",
             "description": "Meta logo using after effects",
             "youtubeId": "Ba5FQ02tTnQ",
-            "category": "Music Video",
+            "category": "Animation",
             "duration": "3:50",
-            "tags": ["Music", "Effects", "Visualizer"]
+            "tags": ["Animation","Effects","Transition"]
         },
         {
             "id": 4,
-            "title": "Paper type 2-D animation",
+            "title": "2-D Animation",
             "description": "2-D animation made with after effects",
             "youtubeId": "EOYixjbPJQg",
-            "category": "Wedding",
+            "category": "Animation",
             "duration": "7:40",
-            "tags": ["Wedding", "Cinematic", "Emotional"]
+            "tags": ["Animation","Effects","Transition"]
         },
         {
             "id": 5,
-            "title": "3-D animation",
+            "title": "3-D Animation",
             "description": "3-D animation using after effects",
             "youtubeId": "EsbUAPOL2vY",
-            "category": "Wedding",
+            "category": "Animation",
             "duration": "7:40",
-            "tags": ["Wedding", "Cinematic", "Emotional"]
+            "tags": ["Animation","Effects","Transition"]
         },
         {
             "id": 6,
             "title": "Airtel-Jio price Hack",
             "description": "Edited in premier pro",
             "youtubeId": "ZKgE9AbBJGw",
-            "category": "Wedding",
+            "category": "Shorts",
             "duration": "7:40",
-            "tags": ["Wedding", "Cinematic", "Emotional"]
+            "tags": ["Reels","Shorts"]
         }
     ],
     "socialMedia": [
         {
             "platform": "YouTube",
-            "url": "https://www.youtube.com/@sonukisku1521",
+            "url": "https://www.youtube.com/@sonukisku03",
             "icon": "youtube"
         },
         {
