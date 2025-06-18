@@ -15,7 +15,6 @@
             "Green Screen Editing",
             "Scene Transitioning",
             "Motion Graphics",
-            "Cinematic Editing",
             "Storytelling"
         ],
         "experience": "1+ Years",
@@ -25,56 +24,98 @@
         {
             "id": 1,
             "title": "Iman Gaadhzi Animation",
-            "description": "Iman Gaadhzi style animation edited with after effects",
             "youtubeId": "cbVIFvVOglM",
             "category": "Animation",
-            "duration": "10:05",
+            "duration": "00:10",
             "tags": ["Animation","Effects","Transition"]
         },
         {
             "id": 2,
             "title": "Newspaper Highlighting Animation",
-            "description": "Newspaper animation edited in the after effects and can also be done in premier pro",
             "youtubeId": "uLwM1qchZ2s",
             "category": "Animation",
-            "duration": "1:20",
+            "duration": "00:07",
             "tags": ["Animation","Effects","Transition"]
         },
-        {
+         {
             "id": 3,
-            "title": "Meta logo ",
-            "description": "Meta logo using after effects",
-            "youtubeId": "Ba5FQ02tTnQ",
-            "category": "Animation",
-            "duration": "3:50",
-            "tags": ["Animation","Effects","Transition"]
+            "title": "Startup Success Rate",
+            "youtubeId": "CWCdHTBu7Lw",
+            "category": "Shorts",
+            "duration": "1:22",
+            "tags": ["Reels","Shorts"]
         },
         {
             "id": 4,
-            "title": "2-D Animation",
-            "description": "2-D animation made with after effects",
-            "youtubeId": "EOYixjbPJQg",
-            "category": "Animation",
-            "duration": "7:40",
-            "tags": ["Animation","Effects","Transition"]
+            "title": "Airtel-Jio price Hack",
+            "youtubeId": "Uni8UCCO4YM",
+            "category": "Shorts",
+            "duration": "00:29",
+            "tags": ["Reels","Shorts"]
         },
         {
             "id": 5,
-            "title": "3-D Animation",
-            "description": "3-D animation using after effects",
-            "youtubeId": "EsbUAPOL2vY",
+            "title": "Meta logo ",
+            "youtubeId": "Ba5FQ02tTnQ",
             "category": "Animation",
-            "duration": "7:40",
+            "duration": "00:05",
             "tags": ["Animation","Effects","Transition"]
         },
         {
             "id": 6,
-            "title": "Airtel-Jio price Hack",
-            "description": "Edited in premier pro",
-            "youtubeId": "ZKgE9AbBJGw",
+            "title": "2-D Animation",
+            "youtubeId": "EOYixjbPJQg",
+            "category": "Animation",
+            "duration": "00:07",
+            "tags": ["Animation","Effects","Transition"]
+        },
+          {
+            "id": 7,
+            "title": "Video Editor AI Tools",
+            "youtubeId": "gnePUepWLYg",
+            "category": "Animation",
+            "duration": "00:16",
+            "tags": ["Reels","Shorts","Animation"]
+        },
+        {
+            "id": 8,
+            "title": "3-D Animation",
+            "youtubeId": "EsbUAPOL2vY",
+            "category": "Animation",
+            "duration": "00:05",
+            "tags": ["Animation","Effects","Transition"]
+        },  
+         {
+            "id": 9,
+            "title": "Client Work",
+            "youtubeId": "3jvOfyejUR4",
             "category": "Shorts",
-            "duration": "7:40",
+            "duration": "00:57",
             "tags": ["Reels","Shorts"]
+        },
+         {
+            "id": 10,
+            "title": "3 Credit Card Facts",
+            "youtubeId": "9s-N4AGWRVs",
+            "category": "Shorts",
+            "duration": "1:01",
+            "tags": ["Reels","Shorts"]
+        },
+         {
+            "id": 11,
+            "title": "why not Print Unlimited Money",
+            "youtubeId": "jxrwlCz0tk0",
+            "category": "Shorts",
+            "duration": "00:54",
+            "tags": ["Reels","Shorts"]
+        },
+         {
+            "id": 12,
+            "title": "Mograph",
+            "youtubeId": "vpIaFKVMhKs",
+            "category": "Shorts",
+            "duration": "00:03",
+            "tags": ["Animation","Effects","Transition"]
         }
     ],
     "socialMedia": [
