@@ -23,9 +23,9 @@
     "projects": [
             {
             "id": 14,
-            "title": "Client Work",
+            "title": "Client Work 1",
             "youtubeId": "B7QSVjkiP_Y",
-            "category": "Animation",
+            "category": "client works",
             "duration": "00:41",
             "tags": ["Reels","Shorts"]
         },
@@ -84,6 +84,14 @@
             "category": "Animation",
             "duration": "00:16",
             "tags": ["Reels","Shorts","Animation"]
+        },
+                {
+            "id": 15,
+            "title": "Client Work 2",
+            "youtubeId": "OIwzv0-WBME",
+            "category": "client works",
+            "duration": "00:23",
+            "tags": ["Reels","Shorts"]
         },
         {
             "id": 8,
