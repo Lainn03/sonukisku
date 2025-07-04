@@ -21,6 +21,14 @@
         "projectsCompleted": "30+"
     },
     "projects": [
+            {
+            "id": 14,
+            "title": "Client Work",
+            "youtubeId": "B7QSVjkiP_Y",
+            "category": "Animation",
+            "duration": "00:41",
+            "tags": ["Reels","Shorts"]
+        },
         {
             "id": 1,
             "title": "Iman Gaadhzi Animation",
